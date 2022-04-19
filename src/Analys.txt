@@ -1,0 +1,11 @@
+App {
+    Wallet View {
+        A card
+        For(card in cards) - show cards
+    }
+    Card Add View {
+        Card (responsive to inputs)
+        input fields
+        add card button
+    }
+}
